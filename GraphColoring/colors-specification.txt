@@ -1,0 +1,1315 @@
+1 Red
+2 Blue
+3 Green
+4 Brown
+5 Black
+6 Yellow
+7 Purple
+8 Gray
+9 Orange
+10 Absolute Zero
+11 Acajou
+12 Acid green
+13 Aero
+14 Aero blue
+15 African violet
+16 Air Force blue (RAF)
+17 Air Force blue (USAF)
+18 Air superiority blue
+19 Alabama crimson
+20 Alice blue
+21 Alien Armpit
+22 Alizarin crimson
+23 Alloy orange
+24 Almond
+25 Amaranth
+26 Amaranth deep purple
+27 Amaranth pink
+28 Amaranth purple
+29 Amaranth red
+30 Amazon
+31 Amber
+32 Amber (SAE/ECE)
+33 American rose
+34 Amethyst
+35 Android green
+36 Anti-flash white
+37 Antique brass
+38 Antique bronze
+39 Antique fuchsia
+40 Antique ruby
+41 Antique white
+42 Ao (English)
+43 Apple green
+44 Apricot
+45 Aqua
+46 Aquamarine
+47 Arctic lime
+48 Army green
+49 Arsenic
+50 Artichoke
+51 Arylide yellow
+52 Ash grey
+53 Asparagus
+54 Atomic tangerine
+55 Auburn
+56 Aureolin
+57 AuroMetalSaurus
+58 Avocado
+59 Aztec Gold
+60 Azure
+61 Azure (web color)
+62 Azure mist
+63 Azureish white
+64 B[edit]
+65 Baby blue
+66 Baby blue eyes
+67 Baby pink
+68 Baby powder
+69 Baker-Miller pink
+70 Ball blue
+71 Banana Mania
+72 Banana yellow
+73 Bangladesh green
+74 Barbie pink
+75 Barn red
+76 Battery Charged Blue
+77 Battleship grey
+78 Bazaar
+79 Beau blue
+80 Beaver
+81 Beige
+82 B'dazzled blue
+83 Big dip o’ruby
+84 Big Foot Feet
+85 Bisque
+86 Bistre
+87 Bistre brown
+88 Bitter lemon
+89 Bitter lime
+90 Bittersweet
+91 Bittersweet shimmer
+92 Black bean
+93 Black Coral
+94 Black leather jacket
+95 Black olive
+96 Black Shadows
+97 Blanched almond
+98 Blast-off bronze
+99 Bleu de France
+100 Blizzard Blue
+101 Blond
+102 Blue (Crayola)
+103 Blue (Munsell)
+104 Blue (NCS)
+105 Blue (Pantone)
+106 Blue (pigment)
+107 Blue (RYB)
+108 Blue Bell
+109 Blue Bolt
+110 Blue-gray
+111 Blue-green
+112 Blue Jeans
+113 Blue Lagoon
+114 Blue-magenta violet
+115 Blue sapphire
+116 Blue-violet
+117 Blue yonder
+118 Blueberry
+119 Bluebonnet
+120 Blush
+121 Bole
+122 Bondi blue
+123 Bone
+124 Booger Buster
+125 Boston University Red
+126 Bottle green
+127 Boysenberry
+128 Brandeis blue
+129 Brass
+130 Brick red
+131 Bright cerulean
+132 Bright green
+133 Bright lavender
+134 Bright lilac
+135 Bright maroon
+136 Bright navy blue
+137 Bright pink
+138 Bright turquoise
+139 Bright ube
+140 Bright Yellow (Crayola)
+141 Brilliant azure
+142 Brilliant lavender
+143 Brilliant rose
+144 Brink pink
+145 British racing green
+146 Bronze
+147 Bronze Yellow
+148 Brown (web)
+149 Brown-nose
+150 Brown Sugar
+151 Brown Yellow
+152 Brunswick green
+153 Bubble gum
+154 Bubbles
+155 Bud green
+156 Buff
+157 Bulgarian rose
+158 Burgundy
+159 Burlywood
+160 Burnished Brown
+161 Burnt orange
+162 Burnt sienna
+163 Burnt umber
+164 Button Blue
+165 Byzantine
+166 Byzantium
+167 C[edit]
+168 Cadet
+169 Cadet blue
+170 Cadet grey
+171 Cadmium green
+172 Cadmium orange
+173 Cadmium red
+174 Cadmium yellow
+175 Café au lait
+176 Café noir
+177 Cal Poly green
+178 Cambridge Blue
+179 Camel
+180 Cameo pink
+181 Camouflage green
+182 Canary
+183 Canary yellow
+184 Candy apple red
+185 Candy pink
+186 Capri
+187 Caput mortuum
+188 Cardinal
+189 Caribbean green
+190 Carmine
+191 Carmine (M&P)
+192 Carmine pink
+193 Carmine red
+194 Carnation pink
+195 Carnelian
+196 Carolina blue
+197 Carrot orange
+198 Castleton green
+199 Catalina blue
+200 Catawba
+201 Cedar Chest
+202 Ceil
+203 Celadon
+204 Celadon blue
+205 Celadon green
+206 Celeste
+207 Celestial blue
+208 Cerise
+209 Cerise pink
+210 Cerulean
+211 Cerulean blue
+212 Cerulean frost
+213 CG Blue
+214 CG Red
+215 Chamoisee
+216 Champagne
+217 Champagne pink
+218 Charcoal
+219 Charleston green
+220 Charm pink
+221 Chartreuse (traditional)
+222 Chartreuse (web)
+223 Cherry
+224 Cherry blossom pink
+225 Chestnut
+226 China pink
+227 China rose
+228 Chinese red
+229 Chinese violet
+230 Chlorophyll green
+231 Chocolate (traditional)
+232 Chocolate (web)
+233 Chrome yellow
+234 Cinereous
+235 Cinnabar
+236 Cinnamon
+237 Cinnamon Satin
+238 Citrine
+239 Citron
+240 Claret
+241 Classic rose
+242 Cobalt Blue
+243 Cocoa brown
+244 Coconut
+245 Coffee
+246 Columbia Blue
+247 Congo pink
+248 Cool Black
+249 Cool grey
+250 Copper
+251 Copper (Crayola)
+252 Copper penny
+253 Copper red
+254 Copper rose
+255 Coquelicot
+256 Coral
+257 Coral pink
+258 Coral red
+259 Coral Reef
+260 Cordovan
+261 Corn
+262 Cornell Red
+263 Cornflower blue
+264 Cornsilk
+265 Cosmic Cobalt
+266 Cosmic latte
+267 Coyote brown
+268 Cotton candy
+269 Cream
+270 Crimson
+271 Crimson glory
+272 Crimson red
+273 Cultured
+274 Cyan
+275 Cyan azure
+276 Cyan-blue azure
+277 Cyan cobalt blue
+278 Cyan cornflower blue
+279 Cyan (process)
+280 Cyber grape
+281 Cyber yellow
+282 D[edit]
+283 Daffodil
+284 Dandelion
+285 Dark blue
+286 Dark blue-gray
+287 Dark brown
+288 Dark brown-tangelo
+289 Dark byzantium
+290 Dark candy apple red
+291 Dark cerulean
+292 Dark chestnut
+293 Dark coral
+294 Dark cyan
+295 Dark electric blue
+296 Dark goldenrod
+297 Dark gray (X11)
+298 Dark green
+299 Dark green (X11)
+300 Dark gunmetal
+301 Dark imperial blue
+302 Dark imperial blue
+303 Dark jungle green
+304 Dark khaki
+305 Dark lava
+306 Dark lavender
+307 Dark liver
+308 Dark liver (horses)
+309 Dark magenta
+310 Dark medium gray
+311 Dark midnight blue
+312 Dark moss green
+313 Dark olive green
+314 Dark orange
+315 Dark orchid
+316 Dark pastel blue
+317 Dark pastel green
+318 Dark pastel purple
+319 Dark pastel red
+320 Dark pink
+321 Dark powder blue
+322 Dark puce
+323 Dark purple
+324 Dark raspberry
+325 Dark red
+326 Dark salmon
+327 Dark scarlet
+328 Dark sea green
+329 Dark sienna
+330 Dark sky blue
+331 Dark slate blue
+332 Dark slate gray
+333 Dark spring green
+334 Dark tan
+335 Dark tangerine
+336 Dark taupe
+337 Dark terra cotta
+338 Dark turquoise
+339 Dark vanilla
+340 Dark violet
+341 Dark yellow
+342 Dartmouth green
+343 Davy's grey
+344 Debian red
+345 Deep aquamarine
+346 Deep carmine
+347 Deep carmine pink
+348 Deep carrot orange
+349 Deep cerise
+350 Deep champagne
+351 Deep chestnut
+352 Deep coffee
+353 Deep fuchsia
+354 Deep Green
+355 Deep green-cyan turquoise
+356 Deep jungle green
+357 Deep koamaru
+358 Deep lemon
+359 Deep lilac
+360 Deep magenta
+361 Deep maroon
+362 Deep mauve
+363 Deep moss green
+364 Deep peach
+365 Deep pink
+366 Deep puce
+367 Deep Red
+368 Deep ruby
+369 Deep saffron
+370 Deep sky blue
+371 Deep Space Sparkle
+372 Deep spring bud
+373 Deep Taupe
+374 Deep Tuscan red
+375 Deep violet
+376 Deer
+377 Denim
+378 Brown Sugar
+379 Desaturated cyan
+380 Desert
+381 Desert sand
+382 Desire
+383 Diamond
+384 Dim gray
+385 Dingy Dungeon
+386 Dirt
+387 Dodger blue
+388 Dogwood rose
+389 Dollar bill
+390 Dolphin Gray
+391 Donkey brown
+392 Drab
+393 Duke blue
+394 Dust storm
+395 Dutch white
+396 E[edit]
+397 Earth yellow
+398 Ebony
+399 Ecru
+400 Eerie black
+401 Eggplant
+402 Eggshell
+403 Egyptian blue
+404 Electric blue
+405 Electric crimson
+406 Electric cyan
+407 Electric green
+408 Electric indigo
+409 Electric lavender
+410 Electric lime
+411 Electric purple
+412 Electric ultramarine
+413 Electric violet
+414 Electric yellow
+415 Emerald
+416 Eminence
+417 English green
+418 English lavender
+419 English red
+420 English violet
+421 Eton blue
+422 Eucalyptus
+423 F[edit]
+424 Fallow
+425 Falu red
+426 Fandango
+427 Fandango pink
+428 Fashion fuchsia
+429 Fawn
+430 Feldgrau
+431 Feldspar
+432 Fern green
+433 Ferrari Red
+434 Field drab
+435 Fiery Rose
+436 Firebrick
+437 Fire engine red
+438 Flame
+439 Flamingo pink
+440 Flattery
+441 Flavescent
+442 Flax
+443 Flirt
+444 Floral white
+445 Fluorescent orange
+446 Fluorescent pink
+447 Fluorescent yellow
+448 Folly
+449 Forest green (traditional)
+450 Forest green (web)
+451 French beige
+452 French bistre
+453 French blue
+454 French fuchsia
+455 French lilac
+456 French lime
+457 French mauve
+458 French pink
+459 French plum
+460 French puce
+461 French raspberry
+462 French rose
+463 French sky blue
+464 French violet
+465 French wine
+466 Fresh Air
+467 Frostbite
+468 Fuchsia
+469 Fuchsia (Crayola)
+470 Fuchsia pink
+471 Fuchsia purple
+472 Fuchsia rose
+473 Fulvous
+474 Fuzzy Wuzzy
+475 G–H[edit]
+476 Gainsboro
+477 Gamboge
+478 Gamboge orange (brown)
+479 Gargoyle Gas
+480 Generic viridian
+481 Ghost white
+482 Giant's Club
+483 Giants orange
+484 Ginger
+485 Glaucous
+486 Glitter
+487 Glossy Grape
+488 GO green
+489 Gold (metallic)
+490 Gold (web) (Golden)
+491 Gold Fusion
+492 Golden brown
+493 Golden poppy
+494 Golden yellow
+495 Goldenrod
+496 Granite Gray
+497 Granny Smith Apple
+498 Grape
+499 Gray (HTML/CSS gray)
+500 Gray (X11 gray)
+501 Gray-asparagus
+502 Gray-blue
+503 Green (Color Wheel) (X11 green)
+504 Green (Crayola)
+505 Green (HTML/CSS color)
+506 Green (Munsell)
+507 Green (NCS)
+508 Green (Pantone)
+509 Green (pigment)
+510 Green-blue
+511 Green-cyan
+512 Green Lizard
+513 Green Sheen
+514 Green-yellow
+515 Grizzly
+516 Grullo
+517 Guppie green
+518 Gunmetal
+519 Halayà úbe
+520 Han blue
+521 Han purple
+522 Hansa yellow
+523 Harlequin
+524 Harlequin green
+525 Harvard crimson
+526 Harvest gold
+527 Heart Gold
+528 Heat Wave
+529 Heidelberg Red [1]
+530 Heliotrope
+531 Heliotrope gray
+532 Heliotrope magenta
+533 Hollywood cerise
+534 Honeydew
+535 Honolulu blue
+536 Hooker's green
+537 Hot magenta
+538 Hot pink
+539 Hunter green
+540 I–K[edit]
+541 Iceberg
+542 Icterine
+543 Illuminating Emerald
+544 Imperial
+545 Imperial blue
+546 Imperial purple
+547 Imperial red
+548 Inchworm
+549 Independence
+550 India green
+551 Indian red
+552 Indian yellow
+553 Indigo
+554 Indigo dye
+555 Indigo (web)
+556 Infra Red
+557 International Klein Blue
+558 International orange (aerospace)
+559 International orange (engineering)
+560 International orange (Golden Gate Bridge)
+561 Iris
+562 Irresistible
+563 Isabelline
+564 Islamic green
+565 Italian sky blue
+566 Ivory
+567 Jade
+568 Japanese carmine
+569 Japanese indigo
+570 Japanese violet
+571 Jasmine
+572 Jasper
+573 Jazzberry jam
+574 Jelly Bean
+575 Jet
+576 Jonquil
+577 Jordy blue
+578 June bud
+579 Jungle green
+580 Kelly green
+581 Kenyan copper
+582 Keppel
+583 Key Lime
+584 Khaki (HTML/CSS) (Khaki)
+585 Khaki (X11) (Light khaki)
+586 Kiwi
+587 Kobe
+588 Kobi
+589 Kobicha
+590 Kombu green
+591 KSU Purple
+592 KU Crimson
+593 L[edit]
+594 La Salle Green
+595 Languid lavender
+596 Lapis lazuli
+597 Laser Lemon
+598 Laurel green
+599 Lava
+600 Lavender (floral)
+601 Lavender (web)
+602 Lavender blue
+603 Lavender blush
+604 Lavender gray
+605 Lavender indigo
+606 Lavender magenta
+607 Lavender mist
+608 Lavender pink
+609 Lavender purple
+610 Lavender rose
+611 Lawn green
+612 Lemon
+613 Lemon chiffon
+614 Lemon curry
+615 Lemon glacier
+616 Lemon lime
+617 Lemon meringue
+618 Lemon yellow
+619 Lenurple
+620 Licorice
+621 Liberty
+622 Light apricot
+623 Light blue
+624 Light brilliant red
+625 Light brown
+626 Light carmine pink
+627 Light cobalt blue
+628 Light coral
+629 Light cornflower blue
+630 Light crimson
+631 Light cyan
+632 Light deep pink
+633 Light French beige
+634 Light fuchsia pink
+635 Light goldenrod yellow
+636 Light gray
+637 Light grayish magenta
+638 Light green
+639 Light hot pink
+640 Light khaki
+641 Light medium orchid
+642 Light moss green
+643 Light orchid
+644 Light pastel purple
+645 Light pink
+646 Light red ochre
+647 Light salmon
+648 Light salmon pink
+649 Light sea green
+650 Light sky blue
+651 Light slate gray
+652 Light steel blue
+653 Light taupe
+654 Light Thulian pink
+655 Light yellow
+656 Lilac
+657 Lilac Luster
+658 Lime (color wheel)
+659 Lime (web) (X11 green)
+660 Lime green
+661 Limerick
+662 Lincoln green
+663 Linen
+664 Lion
+665 Liseran purple
+666 Little boy blue
+667 Liver
+668 Liver (dogs)
+669 Liver (organ)
+670 Liver chestnut
+671 Livid
+672 Lumber
+673 Lust
+674 M[edit]
+675 Macaroni and Cheese
+676 Madder Lake
+677 Magenta
+678 Magenta (Crayola)
+679 Magenta (dye)
+680 Magenta (Pantone)
+681 Magenta (process)
+682 Magenta haze
+683 Magenta-pink
+684 Magic mint
+685 Magic Potion
+686 Magnolia
+687 Mahogany
+688 Maize
+689 Majorelle Blue
+690 Malachite
+691 Manatee
+692 Mandarin
+693 Mango Tango
+694 Mantis
+695 Mardi Gras
+696 Marigold
+697 Maroon (Crayola)
+698 Maroon (HTML/CSS)
+699 Maroon (X11)
+700 Mauve
+701 Mauve taupe
+702 Mauvelous
+703 Maximum Blue
+704 Maximum Blue Green
+705 Maximum Blue Purple
+706 Maximum Green
+707 Maximum Green Yellow
+708 Maximum Purple
+709 Maximum Red
+710 Maximum Red Purple
+711 Maximum Yellow
+712 Maximum Yellow Red
+713 May green
+714 Maya blue
+715 Meat brown
+716 Medium aquamarine
+717 Medium blue
+718 Medium candy apple red
+719 Medium carmine
+720 Medium champagne
+721 Medium electric blue
+722 Medium jungle green
+723 Medium lavender magenta
+724 Medium orchid
+725 Medium Persian blue
+726 Medium purple
+727 Medium red-violet
+728 Medium ruby
+729 Medium sea green
+730 Medium sky blue
+731 Medium slate blue
+732 Medium spring bud
+733 Medium spring green
+734 Medium taupe
+735 Medium turquoise
+736 Medium Tuscan red
+737 Medium vermilion
+738 Medium violet-red
+739 Mellow apricot
+740 Mellow yellow
+741 Melon
+742 Metallic Seaweed
+743 Metallic Sunburst
+744 Mexican pink
+745 Middle Blue
+746 Middle Blue Green
+747 Middle Blue Purple
+748 Middle Red Purple
+749 Middle Green
+750 Middle Green Yellow
+751 Middle Purple
+752 Middle Red
+753 Middle Red Purple
+754 Middle Yellow
+755 Middle Yellow Red
+756 Midnight
+757 Midnight blue
+758 Midnight green (eagle green)
+759 Mikado yellow
+760 Mimi Pink
+761 Mindaro
+762 Ming
+763 Minion Yellow
+764 Mint
+765 Mint cream
+766 Mint green
+767 Misty Moss
+768 Misty rose
+769 Moccasin
+770 Mode beige
+771 Moonstone blue
+772 Mordant red 19
+773 Morning blue
+774 Moss green
+775 Mountain Meadow
+776 Mountbatten pink
+777 MSU Green
+778 Mughal green
+779 Mulberry
+780 Mummy's Tomb
+781 Mustard
+782 Myrtle green
+783 Mystic
+784 Mystic Maroon
+785 N–O[edit]
+786 Nadeshiko pink
+787 Napier green
+788 Naples yellow
+789 Navajo white
+790 Navy
+791 Neon purple
+792 Neon Orange
+793 Neon Red
+794 Neon green
+795 Neon Blue
+796 Neon Yellow
+797 Neon Gray
+798 Neon Brown
+799 Neon Pink
+800 New car
+801 New York pink
+802 Nickel
+803 Non-photo blue
+804 North Texas Green
+805 Nyanza
+806 Ocean Blue
+807 Ocean Boat Blue
+808 Ocean Green
+809 Ochre
+810 Office green
+811 Ogre Odor
+812 Old burgundy
+813 Old gold
+814 Old heliotrope
+815 Old lace
+816 Old lavender
+817 Old mauve
+818 Old moss green
+819 Old rose
+820 Old silver
+821 Olive
+822 Olive Drab (#3)
+823 Olive Drab #7
+824 Olivine
+825 Onyx
+826 Opera mauve
+827 Orange (color wheel)
+828 Orange (Crayola)
+829 Orange (Pantone)
+830 Orange (web)
+831 Orange peel
+832 Orange-red
+833 Orange Soda
+834 Orange-yellow
+835 Orchid
+836 Orchid pink
+837 Sash orange
+838 Orioles orange
+839 Otter brown
+840 Outer Space
+841 Outrageous Orange
+842 Oxford Blue
+843 OU Crimson Red
+844 P[edit]
+845 Pacific Blue
+846 Pakistan green
+847 Palatinate blue
+848 Palatinate purple
+849 Pale aqua
+850 Pale blue
+851 Pale brown
+852 Pale carmine
+853 Pale cerulean
+854 Pale chestnut
+855 Pale copper
+856 Pale cornflower blue
+857 Pale cyan
+858 Pale gold
+859 Pale goldenrod
+860 Pale green
+861 Pale lavender
+862 Pale magenta
+863 Pale magenta-pink
+864 Pale pink
+865 Pale plum
+866 Pale red-violet
+867 Pale robin egg blue
+868 Pale silver
+869 Pale spring bud
+870 Pale taupe
+871 Pale turquoise
+872 Pale violet
+873 Pale violet-red
+874 Palm Leaf
+875 Pansy purple
+876 Paolo Veronese green
+877 Papaya whip
+878 Paradise pink
+879 Paris Green
+880 Parrot Pink
+881 Pastel blue
+882 Pastel brown
+883 Pastel gray
+884 Pastel green
+885 Pastel magenta
+886 Pastel orange
+887 Pastel pink
+888 Pastel purple
+889 Pastel red
+890 Pastel violet
+891 Pastel yellow
+892 Patriarch
+893 Payne's grey
+894 Peach
+895 Peach
+896 Peach-orange
+897 Peach puff
+898 Peach-yellow
+899 Pear
+900 Pearl
+901 Pearl Aqua
+902 Pearly purple
+903 Peridot
+904 Periwinkle
+905 Permanent Geranium Lake
+906 Persian blue
+907 Persian green
+908 Persian indigo
+909 Persian orange
+910 Persian pink
+911 Persian plum
+912 Persian red
+913 Persian rose
+914 Persimmon
+915 Peru
+916 Pewter Blue
+917 Phlox
+918 Phthalo blue
+919 Phthalo green
+920 Picton blue
+921 Pictorial carmine
+922 Piggy pink
+923 Pine green
+924 Pineapple
+925 Pink
+926 Pink (Pantone)
+927 Pink Flamingo
+928 Pink lace
+929 Pink lavender
+930 Pink-orange
+931 Pink pearl
+932 Pink raspberry
+933 Pink Sherbet
+934 Pistachio
+935 Pixie Powder
+936 Platinum
+937 Plum
+938 Plum (web)
+939 Plump Purple
+940 Polished Pine
+941 Pomp and Power
+942 Popstar
+943 Portland Orange
+944 Powder blue
+945 Princeton orange
+946 Princess Perfume
+947 Prune
+948 Prussian blue
+949 Psychedelic purple
+950 Puce
+951 Puce red
+952 Pullman Brown (UPS Brown)
+953 Pullman Green
+954 ]
+955 
+956 Princeton orange
+957 Pumpkin
+958 Purple (Munsell)
+959 Purple (X11)
+960 Purple Heart
+961 Purple mountain majesty
+962 Purple navy
+963 Purple pizzazz
+964 Purple Plum
+965 Purple taupe
+966 Purpureus
+967 Q–R[edit]
+968 Quartz
+969 Queen blue
+970 Queen pink
+971 Quick Silver
+972 Quinacridone magenta
+973 Rackley
+974 Radical Red
+975 Raisin black
+976 Rajah
+977 Raspberry
+978 Raspberry glace
+979 Raspberry pink
+980 Raspberry rose
+981 Raw Sienna
+982 Raw umber
+983 Razzle dazzle rose
+984 Razzmatazz
+985 Razzmic Berry
+986 Rebecca Purple
+987 Red (Crayola)
+988 Red (Munsell)
+989 Red (NCS)
+990 Red (Pantone)
+991 Red (pigment)
+992 Red (RYB)
+993 Red-brown
+994 Red devil
+995 Red-orange
+996 Red-purple
+997 Red Salsa
+998 Red-violet
+999 Redwood
+1000 Regalia
+1001 Registration black
+1002 Resolution blue
+1003 Rhythm
+1004 Rich black
+1005 Rich black (FOGRA29)
+1006 Rich black (FOGRA39)
+1007 Rich brilliant lavender
+1008 Rich carmine
+1009 Rich electric blue
+1010 Rich lavender
+1011 Rich lilac
+1012 Rich maroon
+1013 Rifle green
+1014 Roast coffee
+1015 Robin egg blue
+1016 Rocket metallic
+1017 Roman silver
+1018 Rose
+1019 Rose bonbon
+1020 Rose Dust
+1021 Rose ebony
+1022 Rose gold
+1023 Rose madder
+1024 Rose pink
+1025 Rose quartz
+1026 Rose red
+1027 Rose taupe
+1028 Rose vale
+1029 Rosewood
+1030 Rosso corsa
+1031 Rosy brown
+1032 Royal azure
+1033 Royal blue
+1034 Royal blue
+1035 Royal fuchsia
+1036 Royal purple
+1037 Royal yellow
+1038 Ruber
+1039 Rubine red
+1040 Ruby
+1041 Ruby red
+1042 Ruddy
+1043 Ruddy brown
+1044 Ruddy pink
+1045 Rufous
+1046 Russet
+1047 Russian green
+1048 Russian violet
+1049 Rust
+1050 Rusty red
+1051 S[edit]
+1052 Sacramento State green
+1053 Saddle brown
+1054 Safety orange
+1055 Safety orange (blaze orange)
+1056 Safety yellow
+1057 Saffron
+1058 Sage
+1059 St. Patrick's blue
+1060 Salmon
+1061 Salmon pink
+1062 Sand
+1063 Sand dune
+1064 Sandstorm
+1065 Sandy brown
+1066 Sandy Tan
+1067 Sandy taupe
+1068 Sangria
+1069 Sap green
+1070 Sapphire
+1071 Sapphire blue
+1072 Sasquatch Socks
+1073 Satin sheen gold
+1074 Scarlet
+1075 Scarlet
+1076 Schauss pink
+1077 School bus yellow
+1078 Screamin' Green
+1079 Sea blue
+1080 Sea Foam Green
+1081 Sea green
+1082 Sea Serpent
+1083 Seal brown
+1084 Seashell
+1085 Selective yellow
+1086 Sepia
+1087 Shadow
+1088 Shadow blue
+1089 Shampoo
+1090 Shamrock green
+1091 Sheen Green
+1092 Shimmering Blush
+1093 Shiny Shamrock
+1094 Shocking pink
+1095 Shocking pink (Crayola)
+1096 Sienna
+1097 Silver
+1098 Silver chalice
+1099 Silver Lake blue
+1100 Silver pink
+1101 Silver sand
+1102 Sinopia
+1103 Sizzling Red
+1104 Sizzling Sunset
+1105 Skobeloff
+1106 Sky blue
+1107 Sky magenta
+1108 Slate blue
+1109 Slate gray
+1110 Smalt (Dark powder blue)
+1111 Smitten
+1112 Smoke
+1113 Smokey Topaz
+1114 Smoky black
+1115 Smoky Topaz
+1116 Snow
+1117 Soap
+1118 Solid pink
+1119 Sonic silver
+1120 Spartan Crimson
+1121 Space cadet
+1122 Spanish bistre
+1123 Spanish blue
+1124 Spanish carmine
+1125 Spanish crimson
+1126 Spanish gray
+1127 Spanish green
+1128 Spanish orange
+1129 Spanish pink
+1130 Spanish red
+1131 Spanish sky blue
+1132 Spanish violet
+1133 Spanish viridian
+1134 Spicy mix
+1135 Spiro Disco Ball
+1136 Spring bud
+1137 Spring Frost
+1138 Spring green
+1139 Star command blue
+1140 Steel blue
+1141 Steel pink
+1142 Steel Teal
+1143 Stil de grain yellow
+1144 Stizza
+1145 Stormcloud
+1146 Straw
+1147 Strawberry
+1148 Sugar Plum
+1149 Sunburnt Cyclops
+1150 Sunglow
+1151 Sunny
+1152 Sunray
+1153 Sunset
+1154 Sunset orange
+1155 Super pink
+1156 Sweet Brown
+1157 T[edit]
+1158 Tan
+1159 Tangelo
+1160 Tangerine
+1161 Tangerine yellow
+1162 Tango pink
+1163 Tart Orange
+1164 Taupe
+1165 Taupe gray
+1166 Tea green
+1167 Tea rose
+1168 Tea rose
+1169 Teal
+1170 Teal blue
+1171 Teal deer
+1172 Teal green
+1173 Telemagenta
+1174 Tenné (tawny)
+1175 Terra cotta
+1176 Thistle
+1177 Thulian pink
+1178 Tickle Me Pink
+1179 Tiffany Blue
+1180 Tiger's eye
+1181 Timberwolf
+1182 Titanium yellow
+1183 Tomato
+1184 Toolbox
+1185 Topaz
+1186 Tractor red
+1187 Trolley Grey
+1188 Tropical rain forest
+1189 Tropical violet
+1190 True Blue
+1191 Tufts Blue
+1192 Tulip
+1193 Tumbleweed
+1194 Turkish rose
+1195 Turquoise
+1196 Turquoise blue
+1197 Turquoise green
+1198 Turquoise Surf
+1199 Turtle green
+1200 Tuscan
+1201 Tuscan brown
+1202 Tuscan red
+1203 Tuscan tan
+1204 Tuscany
+1205 Twilight lavender
+1206 Tyrian purple
+1207 U–V[edit]
+1208 UA blue
+1209 UA red
+1210 Ube
+1211 UCLA Blue
+1212 UCLA Gold
+1213 UFO Green
+1214 Ultramarine
+1215 Ultramarine blue
+1216 Ultra pink
+1217 Ultra red
+1218 Umber
+1219 Unbleached silk
+1220 United Nations blue
+1221 University of California Gold
+1222 Unmellow yellow
+1223 UP Forest green
+1224 UP Maroon
+1225 Upsdell red
+1226 Urobilin
+1227 USAFA blue
+1228 USC Cardinal
+1229 USC Gold
+1230 University of Tennessee Orange
+1231 Utah Crimson
+1232 Van Dyke Brown
+1233 Vanilla
+1234 Vanilla ice
+1235 Vegas gold
+1236 Venetian red
+1237 Verdigris
+1238 Vermilion
+1239 Vermilion
+1240 Veronica
+1241 Very light azure
+1242 Very light blue
+1243 Very light malachite green
+1244 Very light tangelo
+1245 Very pale orange
+1246 Very pale yellow
+1247 Violet
+1248 Violet (color wheel)
+1249 Violet (RYB)
+1250 Violet (web)
+1251 Violet-blue
+1252 Violet-red
+1253 Viridian
+1254 Viridian green
+1255 Vista blue
+1256 Vivid amber
+1257 Vivid auburn
+1258 Vivid burgundy
+1259 Vivid cerise
+1260 Vivid cerulean
+1261 Vivid crimson
+1262 Vivid gamboge
+1263 Vivid lime green
+1264 Vivid malachite
+1265 Vivid mulberry
+1266 Vivid orange
+1267 Vivid orange peel
+1268 Vivid orchid
+1269 Vivid raspberry
+1270 Vivid red
+1271 Vivid red-tangelo
+1272 Vivid sky blue
+1273 Vivid tangelo
+1274 Vivid tangerine
+1275 Vivid vermilion
+1276 Vivid violet
+1277 Vivid yellow
+1278 Volt
+1279 W–Z[edit]
+1280 Warm black
+1281 Waterspout
+1282 Weldon Blue
+1283 Wenge
+1284 Wheat
+1285 White
+1286 White smoke
+1287 Wild blue yonder
+1288 Wild orchid
+1289 Wild Strawberry
+1290 Wild watermelon
+1291 Willpower orange
+1292 Windsor tan
+1293 Wine
+1294 Wine dregs
+1295 Winter Sky
+1296 Winter Wizard
+1297 Wintergreen Dream
+1298 Wisteria
+1299 Wood brown
+1300 Xanadu
+1301 Yale Blue
+1302 Yankees blue
+1303 Yellow (Crayola)
+1304 Yellow (Munsell)
+1305 Yellow (NCS)
+1306 Yellow (Pantone)
+1307 Yellow (process)
+1308 Yellow (RYB)
+1309 Yellow-green
+1310 Yellow Orange
+1311 Yellow rose
+1312 Yellow Sunshine
+1313 Zaffre
+1314 Zinnwaldite brown
+1315 Zomp

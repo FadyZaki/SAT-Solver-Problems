@@ -15,7 +15,8 @@ public class Solution {
 
 	public static void main(String[] args) throws FileNotFoundException {
 
-		File specificationFile = new File("graph-specification.txt");
+		//Choose here the graph file you would like to use
+		File specificationFile = new File("graph-specification-small.txt");
 
 		int numOfVertices = 0;
 		int[][] edges = new int[0][2];
@@ -68,7 +69,7 @@ public class Solution {
 		System.out.println("===================================");
 
 		// Find all possible ways of coloring Graph g with its chromatic number
-		ArrayList<Integer[]> models = findAllPossibleColoringsUsingChromaticNumber(g, constraints);
+		ArrayList<Integer[]> models = findAllPossibleColoringsUsingChromaticNumber(g, null);
 		int i = 0;
 		for (Integer[] model : models) {
 			System.out.println("Model " + ++i);
